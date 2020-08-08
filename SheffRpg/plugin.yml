@@ -1,0 +1,30 @@
+name: SheffRpg
+main: sheffrpg.main.SheffRpg
+depend: [WorldGuard, Towny, Essentials]
+version: 0.7.5.3-beta
+api-version: 1.13
+author: shefferger
+commands:
+  stats:
+    description: e.g. /stats mobs
+    aliases: [st, stat]
+    usage: "Usage: /<command> [kills|mobs|blocks|[on|off]|thunder]"
+  rpg:
+    description: e.g. /rpg stats shefferger
+    aliases: [srpg]
+    usage: "Usage: /<command> stats [name]"
+  skill:
+    description: e.g. /skill
+    aliases: [skills, skil, sk, skils]
+    usage: "Usage: /<command>"
+  bp:
+    description: e.g. /bp
+    aliases: [backpack, backp, bpack, bpck]
+    usage: "Usage: /<command>"
+  menu:
+    description: e.g. /menu
+    aliases: [mn, men, meny]
+    usage: "Usage: /<command>"
+  useactiveskill:
+    description: It's a plugin-used command
+    usage: "Usage: /<command>"

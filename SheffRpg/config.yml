@@ -1,0 +1,102 @@
+settings:
+  # Вкл/выкл эффект молнии при повышении уровня
+  lvlUpThunderEffect: true
+  # Опыт с моба по умолчанию
+  defaultExpGainPerMob: 2
+  # Опыт с блока по умолчанию
+  defaultExpGainPerBlock: 1
+  # Опыт с поимки рыбы
+  ExpGainPerCatchFish: 25
+  # Снять опыт за неудачную попытку рыбалки
+  ExpRemovePerFailedFish: 10
+
+mobs: # Моб: кол-во опыта за убийство
+  Zombie Villager: 2
+  Zombie: 4
+  Husk: 4
+  Skeleton: 4
+  Creeper: 5
+  Spider: 4
+  Stray: 5
+  Drowned: 6
+  Cave Spider: 7
+  Magma Cube: 7
+  Pillager: 7
+  Blaze: 9
+  Enderman: 15
+  Wither Skeleton: 13
+  Silverfish: 10
+  Slime: 15
+  Pig Zombie: 20
+  Ghast: 40
+  Endermite: 30
+  Mushroom Cow: 30
+  Turtle: 35
+  Phantom: 40
+  Guardian: 50
+  Shulker: 50
+  Witch: 80
+  Vindicator: 200
+  Vex: 100
+  Zombie Horse: 100
+  Skeleton Horse: 100
+  Evoker: 180
+  Polar Bear: 200
+  Ravager: 250
+  Elder Guardian: 350
+  Wither: 400
+  Giant: 1000
+  Ender Dragon: 2200
+  
+
+blocks: # Блок: кол-во опыта за добычу
+  Air: 0
+  Grass: 0
+  Grass Block: 0
+  Sand: 0
+  Netherrack: 0
+  Dirt: 0
+  Torch: 0
+  Redstone Torch: 0
+  Dandelion: 0
+  Poppy: 0
+  Blue Orchid: 0
+  Allium: 0
+  Azure Bluet: 0
+  Red Tulip: 0
+  Ange Tulip: 0
+  White Tulip: 0
+  Pink Tulip: 0
+  Oxeye Daisy: 0
+  Cornflower: 0
+  Sea Pickle: 0
+  Fern: 0
+  Lily Of The Valley: 0
+  Wither Rose: 0
+  Brown Mushroom: 0
+  Red Mushroom: 0
+  Wheat Seeds: 0
+  Sugar Cane: 0
+  Bamboo: 0
+  Pumpkin Seeds: 0
+  Melon Seeds: 0
+  Oak Sapling: 0
+  Spruce Sapling: 0
+  Birch Sapling: 0
+  Jungle Sapling: 0
+  Acacia Sapling: 0
+  Dark Oak Sapling: 0
+  Stone: 1
+  Nether Quartz Ore: 4
+  Melon: 8
+  Pumpkin: 3
+  Glowstone: 6
+  Gravel: 5
+  Coal Ore: 5
+  Iron Ore: 3
+  Redstone Ore: 6
+  Lapis Ore: 8
+  Gold Ore: 5
+  Obsidian: 20
+  Diamond Ore: 22
+  Emerald Ore: 32
